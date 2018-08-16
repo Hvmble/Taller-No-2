@@ -1,0 +1,12 @@
+Algoritmo punto1
+	Definir base Como Entero
+	Definir altura Como Entero
+	Definir area Como Entero
+	Escribir 'Ingrese la altura del triangulo'
+	Leer altura
+	Escribir 'Ingrese la base del triangulo'
+	Leer base
+	area <- (altura*base)/2
+	Escribir 'El area es:',area
+FinAlgoritmo
+
